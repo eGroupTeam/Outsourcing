@@ -1,8 +1,8 @@
 ---
 name: Frontend outsourcing
 about: Frontend outsourcing
-title: 'Frontend outsourcing'
-labels: Frontend outsourcing
+title: '[項目名稱]] 功能名稱 UI | NT$ | 日期 mm/dd(D) ~ mm/dd(D)'
+labels: Project develop
 assignees: ''
 
 ---
