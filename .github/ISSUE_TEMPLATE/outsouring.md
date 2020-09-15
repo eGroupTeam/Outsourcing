@@ -1,7 +1,7 @@
 ---
 name: Outsourcing
 about: Outsourcing
-title: '[項目名稱]] 功能名稱 UI | NT$ | 日期 mm/dd(D) ~ mm/dd(D)'
+title: "[項目名稱]] 功能名稱 UI | NT$ | 日期 mm/dd(D) ~ mm/dd(D)"
 labels: Project develop
 assignees: ''
 
